@@ -295,6 +295,11 @@
             <scope>test</scope>
             <version>2.1.210</version>
         </dependency>
+        <dependency>
+            <groupId>net.logstash.logback</groupId>
+            <artifactId>logstash-logback-encoder</artifactId>
+            <version>7.2</version>
+        </dependency>
     </dependencies>
 
     <!--
